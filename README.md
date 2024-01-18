@@ -10,7 +10,7 @@ NLP 논문을 집중적으로 읽고 리뷰합니다.
   > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
   >
   > - Keywords : `GloVe`
-  > - Date : 2024.01.11
+  > - Date : 2024.01.11 / 2024.01.25(보완)
   > - Presentor : 유하영
   
 - #### 02 : Sequence to Sequence Learning with Neural Networks
