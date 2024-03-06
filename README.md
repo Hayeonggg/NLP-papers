@@ -20,6 +20,15 @@ NLP 논문을 집중적으로 읽고 리뷰합니다.
   > - Keywords : `seq2seq`
   > - Date : 2024.01.18
   > - Presentor : 유하영
+  >
+
+- #### 03 : Sequence to Sequence Learning with Neural Networks
+  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion](https://github.com/Hayeonggg/NLP-papers/blob/main/presentations/Attention_24.03.03_%EC%9C%A0%ED%95%98%EC%98%81.pdf)</br> 
+  > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). 
+  > - Keywords : `Attention`
+  > - Date : 2024.03.03
+  > - Presentor : 유하영
+
 
 
 
